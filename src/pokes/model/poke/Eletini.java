@@ -1,6 +1,11 @@
-package model;
+package pokes.model.poke;
 
 import java.util.ArrayList;
+
+import pokes.Move;
+import pokes.Poke;
+import pokes.model.move.FurySwipes;
+import pokes.model.move.Thunder;
 
 public class Eletini extends Poke {
 

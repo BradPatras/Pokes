@@ -1,8 +1,13 @@
-package model;
+package pokes.model.poke;
 
 import java.util.ArrayList;
 
-public class Squirtmander extends model.Poke {
+import pokes.Move;
+import pokes.Poke;
+import pokes.model.move.ConfuseRay;
+import pokes.model.move.FireSmack;
+
+public class Squirtmander extends Poke {
 
 	@Override
 	public ArrayList<Move> getMoves() {

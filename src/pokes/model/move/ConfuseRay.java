@@ -1,4 +1,7 @@
-package model;
+package pokes.model.move;
+
+import pokes.Move;
+import pokes.Poke;
 
 public class ConfuseRay extends Move {
 

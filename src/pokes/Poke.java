@@ -1,4 +1,5 @@
-package model;
+package pokes;
+
 
 import java.util.ArrayList;
 

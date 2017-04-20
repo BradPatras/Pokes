@@ -1,6 +1,9 @@
-package model;
+package pokes.model.move;
 
 import java.util.Random;
+
+import pokes.Move;
+import pokes.Poke;
 
 public class Thunder extends Move {
 
